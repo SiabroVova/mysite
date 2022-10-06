@@ -1,0 +1,1 @@
+This is site with news created with Django framework on python. There fully worked homa page, adding news, sorting by categories and register/logining system. Also fully managed admin page, customized and debug added. 
